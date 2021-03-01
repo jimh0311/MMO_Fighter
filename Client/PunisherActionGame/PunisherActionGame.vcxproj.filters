@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\범용">
+      <UniqueIdentifier>{fb2ec983-c149-454a-92cb-475747d46ffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\객체">
+      <UniqueIdentifier>{790649fb-07ca-473d-8dea-f62a4f100809}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\범용">
+      <UniqueIdentifier>{976567c4-0a50-4e95-bcc1-8c4519b63b38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\객체">
+      <UniqueIdentifier>{498cb42e-229f-455e-9785-bfd5a86c5442}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\네트워크">
+      <UniqueIdentifier>{9a4262bb-f9d5-4ccf-a26f-cc19f17fe21f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\네트워크">
+      <UniqueIdentifier>{794a54e0-86c1-4fd9-b6f8-8462b6237a96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PunisherActionGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenDIB.h">
+      <Filter>헤더 파일\범용</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteDIB.h">
+      <Filter>헤더 파일\범용</Filter>
+    </ClInclude>
+    <ClInclude Include="CBaseObject.h">
+      <Filter>헤더 파일\객체</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerObject.h">
+      <Filter>헤더 파일\객체</Filter>
+    </ClInclude>
+    <ClInclude Include="CFrameControl.h">
+      <Filter>헤더 파일\범용</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>헤더 파일\범용</Filter>
+    </ClInclude>
+    <ClInclude Include="Profiler.h">
+      <Filter>헤더 파일\범용</Filter>
+    </ClInclude>
+    <ClInclude Include="CSpark.h">
+      <Filter>헤더 파일\객체</Filter>
+    </ClInclude>
+    <ClInclude Include="CStreamRQ.h">
+      <Filter>헤더 파일\네트워크</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketDefine.h">
+      <Filter>헤더 파일\네트워크</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkProc.h">
+      <Filter>헤더 파일\네트워크</Filter>
+    </ClInclude>
+    <ClInclude Include="MakePacket.h">
+      <Filter>헤더 파일\네트워크</Filter>
+    </ClInclude>
+    <ClInclude Include="CMap.h">
+      <Filter>헤더 파일\객체</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PunisherActionGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteDIB.cpp">
+      <Filter>소스 파일\범용</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenDIB.cpp">
+      <Filter>소스 파일\범용</Filter>
+    </ClCompile>
+    <ClCompile Include="CBaseObject.cpp">
+      <Filter>소스 파일\객체</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerObject.cpp">
+      <Filter>소스 파일\객체</Filter>
+    </ClCompile>
+    <ClCompile Include="CFrameControl.cpp">
+      <Filter>소스 파일\범용</Filter>
+    </ClCompile>
+    <ClCompile Include="Profiler.cpp">
+      <Filter>소스 파일\범용</Filter>
+    </ClCompile>
+    <ClCompile Include="CStreamRQ.cpp">
+      <Filter>소스 파일\네트워크</Filter>
+    </ClCompile>
+    <ClCompile Include="MakePacket.cpp">
+      <Filter>소스 파일\네트워크</Filter>
+    </ClCompile>
+    <ClCompile Include="NetworkProc.cpp">
+      <Filter>소스 파일\네트워크</Filter>
+    </ClCompile>
+    <ClCompile Include="CMap.cpp">
+      <Filter>소스 파일\객체</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PunisherActionGame.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="PunisherActionGame.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

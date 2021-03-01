@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  SpriteDIB.cpp
+  ScreenDIB.cpp
+  PunisherActionGame.cpp
+d:\temp memory\mmo파이터_170129\클라이언트\punisheractiongame\punisheractiongame.cpp(156): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Profiler.cpp
+  NetworkProc.cpp
+  MakePacket.cpp
+  CStreamRQ.cpp
+  CPlayerObject.cpp
+  CMap.cpp
+  CFrameControl.cpp
+  CBaseObject.cpp
+  코드를 생성하고 있습니다...
+d:\temp memory\mmo파이터_170129\클라이언트\punisheractiongame\networkproc.cpp(272): warning C4715: 'SwitchPacketProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  PunisherActionGame.vcxproj -> D:\TEMP MEMORY\MMO파이터_170129\클라이언트\x64\Debug\PunisherActionGame.exe

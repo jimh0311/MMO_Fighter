@@ -1,0 +1,178 @@
+
+__LOG [02:50:26] : Server Start Port : 5000 
+__LOG [02:50:26] : NUM0fCLNT[0] AccPS[0] RvPS[0] SdPS[0] FPS[1] LPS[0]
+__LOG [02:52:58] : Sync USER(211) Server(5357,5287) Client(4601,4811)
+__LOG [02:53:03] : Sync USER(211) Server(6400,5983) Client(5315,5287)
+__LOG [02:53:07] : Sync USER(211) Server(5167,5983) Client(4697,5287)
+__LOG [02:53:08] : Sync USER(143) Server(1008,6400) Client(1038,6400)
+__LOG [02:53:11] : Sync USER(211) Server(3955,5175) Client(4091,4883)
+__LOG [02:53:11] : Incorrect Sync. USER(211) Server(3955,5175) Client(4091,4883)
+__LOG [02:53:11] : Disconnect_UserID[211], RecvTick : 1, RqSize : 0, SqSize: 190
+__LOG [02:53:13] : Sync USER(143) Server(1008,6400) Client(1038,6400)
+__LOG [02:53:17] : Sync USER(143) Server(1008,6400) Client(1038,6400)
+__LOG [02:53:20] : Sync USER(143) Server(1008,5728) Client(1038,6064)
+__LOG [02:53:23] : Sync USER(143) Server(1008,5040) Client(1038,5720)
+__LOG [02:53:27] : Sync USER(143) Server(1956,5672) Client(1512,6036)
+__LOG [02:53:27] : Incorrect Sync. USER(143) Server(1956,5672) Client(1512,6036)
+__LOG [02:53:27] : Disconnect_UserID[143], RecvTick : 3, RqSize : 0, SqSize: 971
+__LOG [02:53:28] : Sync USER(14) Server(1182,6400) Client(1149,6400)
+__LOG [02:53:31] : Sync USER(14) Server(1182,6400) Client(1149,6400)
+__LOG [02:53:36] : Sync USER(14) Server(1182,5504) Client(1149,5950)
+__LOG [02:53:36] : Incorrect Sync. USER(14) Server(1182,5504) Client(1149,5950)
+__LOG [02:53:36] : Disconnect_UserID[14], RecvTick : 2, RqSize : 0, SqSize: 842
+__LOG [02:53:44] : Sync USER(101) Server(2415,3825) Client(1818,4249)
+__LOG [02:53:44] : Incorrect Sync. USER(101) Server(2415,3825) Client(1818,4249)
+__LOG [02:53:44] : Disconnect_UserID[101], RecvTick : 1, RqSize : 0, SqSize: 112
+__LOG [02:54:22] : Sync USER(219) Server(2217,6046) Client(1554,5618)
+__LOG [02:54:22] : Incorrect Sync. USER(219) Server(2217,6046) Client(1554,5618)
+__LOG [02:54:22] : Disconnect_UserID[219], RecvTick : 1, RqSize : 0, SqSize: 848
+__LOG [02:54:31] : Sync USER(71) Server(248,5776) Client(737,5780)
+__LOG [02:54:31] : Incorrect Sync. USER(71) Server(248,5776) Client(737,5780)
+__LOG [02:54:31] : Disconnect_UserID[71], RecvTick : 2, RqSize : 0, SqSize: 778
+__LOG [02:54:32] : Sync USER(174) Server(2832,5596) Client(2295,5258)
+__LOG [02:54:32] : Incorrect Sync. USER(174) Server(2832,5596) Client(2295,5258)
+__LOG [02:54:32] : Disconnect_UserID[174], RecvTick : 1, RqSize : 0, SqSize: 476
+__LOG [02:54:34] : Sync USER(496) Server(5793,5462) Client(5298,5152)
+__LOG [02:54:37] : Sync USER(496) Server(5793,4822) Client(5298,4832)
+__LOG [02:54:37] : Incorrect Sync. USER(496) Server(5793,4822) Client(5298,4832)
+__LOG [02:54:37] : Disconnect_UserID[496], RecvTick : 1, RqSize : 0, SqSize: 0
+__LOG [02:54:40] : Sync USER(88) Server(4503,6347) Client(3744,6337)
+__LOG [02:54:40] : Incorrect Sync. USER(88) Server(4503,6347) Client(3744,6337)
+__LOG [02:54:40] : Disconnect_UserID[88], RecvTick : 1, RqSize : 0, SqSize: 190
+__LOG [02:54:43] : Sync USER(379) Server(3210,6400) Client(3180,6400)
+__LOG [02:54:43] : Sync USER(133) Server(2087,6400) Client(1811,6200)
+__LOG [02:54:43] : Incorrect Sync. USER(133) Server(2087,6400) Client(1811,6200)
+__LOG [02:54:43] : Disconnect_UserID[133], RecvTick : 2, RqSize : 0, SqSize: 421
+__LOG [02:54:47] : Sync USER(379) Server(3210,6400) Client(3180,6400)
+__LOG [02:54:50] : Sync USER(379) Server(3210,5786) Client(3180,6092)
+__LOG [02:54:50] : Incorrect Sync. USER(379) Server(3210,5786) Client(3180,6092)
+__LOG [02:54:50] : Disconnect_UserID[379], RecvTick : 1, RqSize : 0, SqSize: 320
+__LOG [02:55:00] : Sync USER(302) Server(0,5592) Client(234,5740)
+__LOG [02:55:04] : Sync USER(302) Server(0,5592) Client(0,5740)
+__LOG [02:55:04] : Incorrect Sync. USER(302) Server(0,5592) Client(0,5740)
+__LOG [02:55:04] : Disconnect_UserID[302], RecvTick : 1, RqSize : 0, SqSize: 0
+__LOG [02:55:11] : Sync USER(137) Server(2118,5388) Client(1425,5386)
+__LOG [02:55:14] : Sync USER(137) Server(1086,5388) Client(909,5386)
+__LOG [02:55:14] : Incorrect Sync. USER(137) Server(1086,5388) Client(909,5386)
+__LOG [02:55:14] : Disconnect_UserID[137], RecvTick : 2, RqSize : 0, SqSize: 664
+__LOG [02:55:15] : Sync USER(287) Server(1650,5412) Client(942,5874)
+__LOG [02:55:15] : Incorrect Sync. USER(287) Server(1650,5412) Client(942,5874)
+__LOG [02:55:15] : Disconnect_UserID[287], RecvTick : 1, RqSize : 0, SqSize: 751
+__LOG [02:55:31] : Sync USER(155) Server(1392,6400) Client(1356,6400)
+__LOG [02:55:36] : Sync USER(155) Server(1392,6400) Client(1356,6400)
+__LOG [02:55:39] : Sync USER(349) Server(4122,6400) Client(4059,6378)
+__LOG [02:55:40] : Sync USER(155) Server(1392,5526) Client(1356,5960)
+__LOG [02:55:40] : Incorrect Sync. USER(155) Server(1392,5526) Client(1356,5960)
+__LOG [02:55:40] : Disconnect_UserID[155], RecvTick : 1, RqSize : 0, SqSize: 791
+__LOG [02:55:43] : Sync USER(74) Server(2814,2426) Client(2790,2794)
+__LOG [02:55:43] : Sync USER(349) Server(4122,6400) Client(4059,6378)
+__LOG [02:55:47] : Sync USER(74) Server(1806,1754) Client(2283,2456)
+__LOG [02:55:47] : Incorrect Sync. USER(74) Server(1806,1754) Client(2283,2456)
+__LOG [02:55:47] : Disconnect_UserID[74], RecvTick : 2, RqSize : 0, SqSize: 114
+__LOG [02:55:47] : Sync USER(349) Server(4122,6400) Client(4059,6378)
+__LOG [02:55:52] : Sync USER(349) Server(4122,6400) Client(4059,6378)
+__LOG [02:55:55] : Sync USER(129) Server(420,4508) Client(990,4878)
+__LOG [02:55:55] : Incorrect Sync. USER(129) Server(420,4508) Client(990,4878)
+__LOG [02:55:55] : Disconnect_UserID[129], RecvTick : 1, RqSize : 0, SqSize: 380
+__LOG [02:55:55] : Sync USER(349) Server(4122,6400) Client(4026,6400)
+__LOG [02:55:59] : Sync USER(349) Server(4122,5618) Client(4026,6008)
+__LOG [02:55:59] : Incorrect Sync. USER(349) Server(4122,5618) Client(4026,6008)
+__LOG [02:55:59] : Disconnect_UserID[349], RecvTick : 1, RqSize : 0, SqSize: 130
+__LOG [02:56:16] : Sync USER(203) Server(5608,6400) Client(5650,6400)
+__LOG [02:56:19] : Sync USER(203) Server(5608,6400) Client(5650,6400)
+__LOG [02:56:20] : Sync USER(436) Server(2259,4197) Client(1692,3847)
+__LOG [02:56:20] : Incorrect Sync. USER(436) Server(2259,4197) Client(1692,3847)
+__LOG [02:56:20] : Disconnect_UserID[436], RecvTick : 0, RqSize : 0, SqSize: 268
+__LOG [02:56:20] : Sync USER(402) Server(5928,4232) Client(5328,4244)
+__LOG [02:56:20] : Incorrect Sync. USER(402) Server(5928,4232) Client(5328,4244)
+__LOG [02:56:20] : Disconnect_UserID[402], RecvTick : 1, RqSize : 0, SqSize: 105
+__LOG [02:56:23] : Sync USER(203) Server(5608,6400) Client(5650,6400)
+__LOG [02:56:26] : Sync USER(172) Server(2346,4424) Client(1776,4802)
+__LOG [02:56:26] : Sync USER(399) Server(2586,5691) Client(2088,5379)
+__LOG [02:56:26] : Incorrect Sync. USER(399) Server(2586,5691) Client(2088,5379)
+__LOG [02:56:26] : Disconnect_UserID[399], RecvTick : 2, RqSize : 0, SqSize: 648
+__LOG [02:56:27] : Sync USER(203) Server(5608,6400) Client(5650,6400)
+__LOG [02:56:29] : Sync USER(300) Server(5274,4439) Client(4812,4781)
+__LOG [02:56:29] : Incorrect Sync. USER(300) Server(5274,4439) Client(4812,4781)
+__LOG [02:56:29] : Disconnect_UserID[300], RecvTick : 1, RqSize : 0, SqSize: 85
+__LOG [02:56:30] : Sync USER(172) Server(2346,5158) Client(1776,5168)
+__LOG [02:56:30] : Incorrect Sync. USER(172) Server(2346,5158) Client(1776,5168)
+__LOG [02:56:30] : Disconnect_UserID[172], RecvTick : 1, RqSize : 0, SqSize: 346
+__LOG [02:56:31] : Sync USER(203) Server(5608,6400) Client(5650,6400)
+__LOG [02:56:33] : Sync USER(357) Server(2646,6400) Client(2613,6400)
+__LOG [02:56:35] : Sync USER(203) Server(5608,5510) Client(5650,5954)
+__LOG [02:56:37] : Sync USER(357) Server(2646,5622) Client(2613,6012)
+__LOG [02:56:38] : Sync USER(308) Server(4074,6400) Client(4008,6370)
+__LOG [02:56:39] : Sync USER(203) Server(5608,6218) Client(5650,6306)
+__LOG [02:56:39] : Incorrect Sync. USER(203) Server(5608,6218) Client(5650,6306)
+__LOG [02:56:39] : Disconnect_UserID[203], RecvTick : 1, RqSize : 0, SqSize: 76
+__LOG [02:56:40] : Sync USER(357) Server(1656,4962) Client(2118,5682)
+__LOG [02:56:40] : Incorrect Sync. USER(357) Server(1656,4962) Client(2118,5682)
+__LOG [02:56:40] : Disconnect_UserID[357], RecvTick : 1, RqSize : 0, SqSize: 380
+__LOG [02:56:42] : Sync USER(301) Server(3513,3029) Client(2919,3465)
+__LOG [02:56:42] : Incorrect Sync. USER(301) Server(3513,3029) Client(2919,3465)
+__LOG [02:56:42] : Disconnect_UserID[301], RecvTick : 2, RqSize : 0, SqSize: 121
+__LOG [02:56:56] : Sync USER(400) Server(4476,5548) Client(3936,5894)
+__LOG [02:56:56] : Incorrect Sync. USER(400) Server(4476,5548) Client(3936,5894)
+__LOG [02:56:56] : Disconnect_UserID[400], RecvTick : 1, RqSize : 0, SqSize: 257
+__LOG [02:56:58] : Sync USER(317) Server(3288,5427) Client(2787,5437)
+__LOG [02:57:03] : Sync USER(317) Server(4743,6397) Client(3516,5923)
+__LOG [02:57:03] : Incorrect Sync. USER(317) Server(4743,6397) Client(3516,5923)
+__LOG [02:57:03] : Disconnect_UserID[317], RecvTick : 1, RqSize : 0, SqSize: 141
+__LOG [02:57:04] : Sync USER(220) Server(2046,6400) Client(2166,6340)
+__LOG [02:57:04] : Incorrect Sync. USER(220) Server(2046,6400) Client(2166,6340)
+__LOG [02:57:04] : Disconnect_UserID[220], RecvTick : 1, RqSize : 0, SqSize: 0
+__LOG [02:57:05] : Sync USER(351) Server(2376,6400) Client(2328,6400)
+__LOG [02:57:06] : Sync USER(150) Server(5295,1493) Client(4536,1017)
+__LOG [02:57:09] : Sync USER(150) Server(4278,1493) Client(4026,1017)
+__LOG [02:57:09] : Incorrect Sync. USER(150) Server(4278,1493) Client(4026,1017)
+__LOG [02:57:09] : Disconnect_UserID[150], RecvTick : 1, RqSize : 0, SqSize: 29
+__LOG [02:57:10] : Sync USER(351) Server(2376,6400) Client(2328,6400)
+__LOG [02:57:14] : Sync USER(351) Server(2376,5670) Client(2328,6036)
+__LOG [02:57:14] : Incorrect Sync. USER(351) Server(2376,5670) Client(2328,6036)
+__LOG [02:57:14] : Disconnect_UserID[351], RecvTick : 1, RqSize : 0, SqSize: 471
+__LOG [02:57:15] : Sync USER(354) Server(180,4035) Client(690,4371)
+__LOG [02:57:15] : Incorrect Sync. USER(354) Server(180,4035) Client(690,4371)
+__LOG [02:57:15] : Disconnect_UserID[354], RecvTick : 1, RqSize : 0, SqSize: 293
+__LOG [02:57:20] : Sync USER(291) Server(1707,5270) Client(2322,5666)
+__LOG [02:57:20] : Incorrect Sync. USER(291) Server(1707,5270) Client(2322,5666)
+__LOG [02:57:20] : Disconnect_UserID[291], RecvTick : 1, RqSize : 0, SqSize: 738
+__LOG [02:57:21] : Sync USER(394) Server(3437,5848) Client(2873,5466)
+__LOG [02:57:23] : Sync USER(390) Server(2739,3421) Client(2100,3861)
+__LOG [02:57:23] : Sync USER(463) Server(2601,6400) Client(3048,6097)
+__LOG [02:57:23] : Sync USER(421) Server(1575,6158) Client(2076,5800)
+__LOG [02:57:23] : Incorrect Sync. USER(421) Server(1575,6158) Client(2076,5800)
+__LOG [02:57:23] : Disconnect_UserID[421], RecvTick : 1, RqSize : 0, SqSize: 909
+__LOG [02:57:24] : Sync USER(394) Server(2453,5192) Client(2384,5140)
+__LOG [02:57:24] : Incorrect Sync. USER(394) Server(2453,5192) Client(2384,5140)
+__LOG [02:57:24] : Disconnect_UserID[394], RecvTick : 1, RqSize : 0, SqSize: 474
+__LOG [02:57:26] : Sync USER(463) Server(3636,5710) Client(3573,5747)
+__LOG [02:57:27] : Sync USER(390) Server(3924,3421) Client(2691,3861)
+__LOG [02:57:27] : Incorrect Sync. USER(390) Server(3924,3421) Client(2691,3861)
+__LOG [02:57:27] : Disconnect_UserID[390], RecvTick : 2, RqSize : 0, SqSize: 152
+__LOG [02:57:28] : Sync USER(108) Server(2913,5046) Client(2292,4646)
+__LOG [02:57:30] : Sync USER(463) Server(3636,5710) Client(3573,5747)
+__LOG [02:57:32] : Sync USER(108) Server(2913,5932) Client(2292,5090)
+__LOG [02:57:32] : Incorrect Sync. USER(108) Server(2913,5932) Client(2292,5090)
+__LOG [02:57:32] : Disconnect_UserID[108], RecvTick : 1, RqSize : 0, SqSize: 302
+__LOG [02:57:32] : Sync USER(411) Server(2928,4119) Client(2187,4611)
+__LOG [02:57:32] : Incorrect Sync. USER(411) Server(2928,4119) Client(2187,4611)
+__LOG [02:57:32] : Disconnect_UserID[411], RecvTick : 1, RqSize : 0, SqSize: 275
+__LOG [02:57:35] : Sync USER(463) Server(3636,5710) Client(3573,5747)
+__LOG [02:57:39] : Sync USER(463) Server(3636,5710) Client(3573,5747)
+__LOG [02:57:39] : Sync USER(36) Server(561,6160) Client(1146,6160)
+__LOG [02:57:39] : Incorrect Sync. USER(36) Server(561,6160) Client(1146,6160)
+__LOG [02:57:39] : Disconnect_UserID[36], RecvTick : 2, RqSize : 0, SqSize: 425
+__LOG [02:57:39] : Sync USER(385) Server(5099,5620) Client(4559,5280)
+__LOG [02:57:40] : Sync USER(111) Server(3435,5084) Client(2802,5078)
+__LOG [02:57:42] : Sync USER(463) Server(4668,5022) Client(4089,5403)
+__LOG [02:57:42] : Sync USER(73) Server(4503,4517) Client(5202,4073)
+__LOG [02:57:42] : Incorrect Sync. USER(73) Server(4503,4517) Client(5202,4073)
+__LOG [02:57:42] : Disconnect_UserID[73], RecvTick : 1, RqSize : 0, SqSize: 172
+__LOG [02:57:42] : Sync USER(385) Server(6047,5620) Client(5033,5280)
+__LOG [02:57:42] : Incorrect Sync. USER(385) Server(6047,5620) Client(5033,5280)
+__LOG [02:57:42] : Disconnect_UserID[385], RecvTick : 0, RqSize : 0, SqSize: 219
+__LOG [02:57:45] : Sync USER(111) Server(3435,6052) Client(2802,5562)
+__LOG [02:57:46] : Sync USER(463) Server(4668,4182) Client(4089,4983)
+__LOG [02:57:46] : Incorrect Sync. USER(463) Server(4668,4182) Client(4089,4983)
+__LOG [02:57:46] : Disconnect_UserID[463], RecvTick : 1, RqSize : 0, SqSize: 94

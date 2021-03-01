@@ -1,0 +1,13 @@
+﻿  __Log.cpp
+c:\users\user\documents\visual studio 2015\projects\mmo_tf_server_win\mmo_tf_server_win\__log.cpp(22): warning C4101: 'timeBuf' :참조되지 않은 지역 변수입니다.
+  ServMain.cpp
+  CStreamRQ.cpp
+  CProtoBuffer.cpp
+  NetworkProc.cpp
+c:\users\user\documents\visual studio 2015\projects\mmo_tf_server_win\mmo_tf_server_win\networkproc.cpp(343): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  PacketProc.cpp
+  ClientAction.cpp
+  코드를 생성하고 있습니다...
+c:\users\user\documents\visual studio 2015\projects\mmo_tf_server_win\mmo_tf_server_win\packetproc.cpp(105): warning C4715: 'MakeMsgPacket': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MMO_TF_Server_Win.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\MMO_TF_Server_Win\Debug\MMO_TF_Server_Win.exe
+  MMO_TF_Server_Win.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\MMO_TF_Server_Win\Debug\MMO_TF_Server_Win.pdb (Full PDB)

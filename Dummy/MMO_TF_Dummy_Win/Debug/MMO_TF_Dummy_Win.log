@@ -1,0 +1,4 @@
+﻿  DummyMain.cpp
+c:\users\user\documents\visual studio 2015\projects\mmo_tf_dummy_win\mmo_tf_dummy_win\dummymain.cpp(166): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  MMO_TF_Dummy_Win.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\MMO_TF_Dummy_Win\Debug\MMO_TF_Dummy_Win.exe
+  MMO_TF_Dummy_Win.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\MMO_TF_Dummy_Win\Debug\MMO_TF_Dummy_Win.pdb (Full PDB)
